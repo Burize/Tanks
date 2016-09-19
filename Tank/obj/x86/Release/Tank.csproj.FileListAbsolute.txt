@@ -1,0 +1,7 @@
+E:\k\Tank\Tank\bin\Release\Tank.exe
+E:\k\Tank\Tank\bin\Release\Tank.pdb
+E:\k\Tank\Tank\obj\x86\Release\Tank.Form1.resources
+E:\k\Tank\Tank\obj\x86\Release\Tank.Properties.Resources.resources
+E:\k\Tank\Tank\obj\x86\Release\Tank.csproj.GenerateResource.Cache
+E:\k\Tank\Tank\obj\x86\Release\Tank.exe
+E:\k\Tank\Tank\obj\x86\Release\Tank.pdb
